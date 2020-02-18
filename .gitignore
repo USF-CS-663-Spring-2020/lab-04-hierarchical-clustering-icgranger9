@@ -1,0 +1,6 @@
+# Mac Stuff
+.DS_Store
+
+# Jupyter Stuff 
+.ipynb_checkpoints/
+
